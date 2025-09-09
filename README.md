@@ -16,7 +16,7 @@ Abra o arquivo `index.html` no navegador.
 ## Histórico de desenvolvimento
 
 - [x] Estrutura HTML básica
-- [ ] Estilização com CSS
-- [ ] Interatividade com JavaScript
-- [ ] Responsividade
-- [ ] Deploy no GitHub Pages
+- [x] Estilização com CSS
+- [x] Interatividade com JavaScript
+- [x] Responsividade
+- [x] Deploy no GitHub Pages
